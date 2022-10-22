@@ -1,0 +1,32 @@
+#invalid-login {
+    color: red;
+    display: none;
+}
+
+.login-container {
+    margin: auto;
+    background-color: rgb(236, 236, 34);
+    padding: 90px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 0 15px rgb(75, 73, 73);
+}
+
+#password-input{
+    padding: 10px;
+}
+
+#user-input{
+     padding: 10px;
+}
+
+#password {
+    padding-top: 30px;
+}
+
+#login-button {
+    margin-top: 30px;
+    text-align: center;
+}
